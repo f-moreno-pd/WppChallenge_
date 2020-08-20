@@ -1,7 +1,9 @@
 ![](http://digitalworldtrends.com/Data_Studio/Images/texto_circulosmorados-wpp_readme.jpg)
 
 ![](https://img.shields.io/badge/Company-WundermanThompson%20Spain-blue) 
+
 ![](https://img.shields.io/badge/Team-FelipeMoreno&JavierCarmona-blueviolet)
+
 ![](https://img.shields.io/badge/Python-v3.7-red) 
 
 ------------
