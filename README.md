@@ -28,7 +28,7 @@ What are you goind to find on it?
 ![](http://digitalworldtrends.com/Data_Studio/Images/000.png)
 - **Quick insights,** because is very intereting to understand how big is the data from WPP. 
 
-![](http://digitalworldtrends.com/Data_Studio/Images/001.png)
+![](http://digitalworldtrends.com/Data_Studio/Images/001.jpg)
 - **Charts**, the objetive of this charts are show very fast all the categories and what data is available from WPP.
 World map with what countries are included in our datasets.
 Sunburst to review the collections and topics.
