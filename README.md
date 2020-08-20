@@ -41,7 +41,7 @@ Wordclud with a quick overview of the tags of all the datasets.
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/004.png)
 
-** The Team **, last but not least :tw-1f609: we are the team who were been involved in this amazing Data Challenge and we hope you were happy as us with the result.
+**The Team**, last but not least :stuck_out_tongue_winking_eye: we are the team who were been involved in this amazing Data Challenge and we hope you were happy as us with the result.
 
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/team.jpg)
