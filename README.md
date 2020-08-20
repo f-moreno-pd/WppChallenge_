@@ -19,14 +19,27 @@ As we said, our objetive (and the objetive of the challenge) is to create an eas
 - **NLP Approach:**
 - **Code:** All the code was beed developed to be usable and let us to have the dashboard always updated. We have used the dataset of url-collection-topic as starting point, from there, we use the urls to extract all the metadata from de dataset and work with it. After you add a new dataset to this dataset you only have to execute the code to have the dashboard full updated. 
 
-### The Dashboard
+#### The Dashboard
 
 You can access to our dashboard here: http://bit.ly/WPP_Challenge
 What are you goind to find on it? 
 - **Updated date.** Every time the code run the date were updated.  
+
 ![](http://digitalworldtrends.com/Data_Studio/Images/000.png)
 - **Quick insights,** because is very intereting to understand how big is the data from WPP. 
+
 ![](http://digitalworldtrends.com/Data_Studio/Images/001.png)
+- **Charts**, the objetive of this charts are show very fast all the categories and what data is available from WPP.
+World map with what countries are included in our datasets.
+Sunburst to review the collections and topics.
+Timeline with the years about we have data.
+Wordclud with a quick overview of the tags of all the datasets.
+
+![](http://digitalworldtrends.com/Data_Studio/Images/003.jpg)
+
+
+
+
 
 
 
