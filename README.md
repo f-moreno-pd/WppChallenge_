@@ -57,7 +57,9 @@ Word Cloud with a quick overview of the tags of all the datasets.
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/004.jpg)
 
-**The Team**, last but not least :stuck_out_tongue_winking_eye: we are the team who have been involved in this amazing Data Challenge and we hope you are happy with the result.
+####The Team
+
+Last but not least :stuck_out_tongue_winking_eye: we are the team who have been involved in this amazing Data Challenge and we hope you are happy with the result.
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/team.jpg)
 
