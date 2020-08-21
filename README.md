@@ -48,7 +48,7 @@ Wordclud with a quick overview of the tags of all the datasets.
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/003.jpg)
 
-- ** Data table**, after review the different options that you can filter the data it is time to go deep on in, now with the data table the user can filter all the datasets from collection, topic, country and year and access to the dataset. 
+- **Data table**, after review the different options that you can filter the data it is time to go deep on in, now with the data table the user can filter all the datasets from collection, topic, country and year and access to the dataset. 
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/004.png)
 
