@@ -21,6 +21,15 @@ As we said, our objetive (and the objetive of the challenge) is to create an eas
 - **NLP Approach:**
 - **Code:** All the code was beed developed to be usable and let us to have the dashboard always updated. We have used the dataset of url-collection-topic as starting point, from there, we use the urls to extract all the metadata from de dataset and work with it. After you add a new dataset to this dataset you only have to execute the code to have the dashboard full updated. 
 
+#### What have we done? 
+The final objetive is to have a good dashboard, but before have it ready we need to understand what we have.
+We connect with the API and the dataset with all the URLs to export all the metadata and we start to work with it creating 5 final dataframes.
+**Countries.** Dataset titles and all the countries inside the summary text.
+**Dates.** Dataset titles and all the dates inside the summary text. When we detect a range (for example from 2000 to 2020) we include all the dates inside the range.
+**Tags.** Dataset titles and all the dats of each one. 
+**Full data.** Dataset with all the info from the metadata. From title to collection, privacy, description... 
+**Resume.** A resume of what we have, how many datasets? How many couentries? from when have we got data? 
+
 #### The Dashboard
 
 You can access to our dashboard here: http://bit.ly/WPP_Challenge
