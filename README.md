@@ -13,7 +13,7 @@ For this challenge we have worked with a concept always on mind: **Data for busi
 
 As we said, our objetive (and the objetive of the challenge) is to create an easy and usefull dashboard, but also a dashboard always updated, now with 276 datasets and in one year from now with 3.000 of datasets, the dashboard must be updated easy and fast to make all the data accesible to all the WPP Group. 
 
-#### Challenge topics
+### Challenge topics
 
 - **Insigths:** Clear insights are very important, understand in a easy way what data WPP have and if it is usefull for the anyone who arrive to our dahsboard, we try to look for insights  that are not readily visible and answer to questions like when o where.
 - **Visualization:** We decided to use DataStudio because it is very easy to connect to multiple platforms and it fits perfect with the dashboard we want to develope. 
@@ -21,7 +21,7 @@ As we said, our objetive (and the objetive of the challenge) is to create an eas
 - **NLP Approach:**
 - **Code:** All the code was beed developed to be usable and let us to have the dashboard always updated. We have used the dataset of url-collection-topic as starting point, from there, we use the urls to extract all the metadata from de dataset and work with it. After you add a new dataset to this dataset you only have to execute the code to have the dashboard full updated. 
 
-#### What have we done? 
+### What have we done? 
 The final objetive is to have a good dashboard, but before have it ready we need to understand what we have.
 We connect with the API and the dataset with all the URLs to export all the metadata and we start to work with it creating 5 final dataframes.
 1. **Countries.** Dataset titles and all the countries inside the summary text.
@@ -32,7 +32,7 @@ We connect with the API and the dataset with all the URLs to export all the meta
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/006.jpg)
 
-#### The Dashboard
+### The Dashboard
 
 You can access to our dashboard here: http://bit.ly/WPP_Challenge
 What are you goind to find on it? 
