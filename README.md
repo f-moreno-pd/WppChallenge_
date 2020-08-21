@@ -24,11 +24,11 @@ As we said, our objetive (and the objetive of the challenge) is to create an eas
 #### What have we done? 
 The final objetive is to have a good dashboard, but before have it ready we need to understand what we have.
 We connect with the API and the dataset with all the URLs to export all the metadata and we start to work with it creating 5 final dataframes.
-**Countries.** Dataset titles and all the countries inside the summary text.
-**Dates.** Dataset titles and all the dates inside the summary text. When we detect a range (for example from 2000 to 2020) we include all the dates inside the range.
-**Tags.** Dataset titles and all the dats of each one. 
-**Full data.** Dataset with all the info from the metadata. From title to collection, privacy, description... 
-**Resume.** A resume of what we have, how many datasets? How many couentries? from when have we got data? 
+1. **Countries.** Dataset titles and all the countries inside the summary text.
+2. **Dates.** Dataset titles and all the dates inside the summary text. When we detect a range (for example from 2000 to 2020) we include all the dates inside the range.
+3. **Tags.** Dataset titles and all the dats of each one. 
+4. **Full data.** Dataset with all the info from the metadata. From title to collection, privacy, description... 
+5. **Resume.** A resume of what we have, how many datasets? How many couentries? from when have we got data? 
 
 #### The Dashboard
 
