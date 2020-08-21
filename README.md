@@ -1,3 +1,15 @@
+![](http://digitalworldtrends.com/Data_Studio/Images/texto_circulosmorados-wpp_readme.jpg)
+
+ ![](https://img.shields.io/badge/Company-WundermanThompson%20Spain-blue) 
+
+ ![](https://img.shields.io/badge/Team-FelipeMoreno&JavierCarmona-blueviolet)
+
+ ![](https://img.shields.io/badge/Python-v3.7-red) 
+
+
+
+
+
 While it´s very impressive that today's technology allows us to gather incredible amounts of data, the reality is much of this data is currently collected before anyone answers: “What do we want to do with this data?" The result: WPP has a lot of data and people don´t know about it.
 
 For this challenge, we have worked with a concept always on mind: **Data for business.** What does this mean? Easy, it means that we are going to work in a dashboard where people, who are not used to working with data, understand all the data that WPP has available.
