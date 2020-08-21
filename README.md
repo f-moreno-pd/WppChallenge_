@@ -31,7 +31,7 @@ We connect with the API and the dataset with all the URLs to export all the meta
 2. **Dates.** Dataset titles and all the dates inside the summary text. When we detect a range (for example from 2000 to 2020) we include all the dates inside the range.
 3. **Tags.** Dataset titles and all the dates of each one. 
 4. **Full data.** Dataset with all the info from the metadata. From title to collection, privacy, description... 
-5. **Resume.** A resume of what we have, how many datasets? How many countries? When have we got data from? 
+5. **Summary.** A resume of what we have, how many datasets? How many countries? When have we got data from? 
 
 ![](http://digitalworldtrends.com/Data_Studio/Images/007.jpg)
 
